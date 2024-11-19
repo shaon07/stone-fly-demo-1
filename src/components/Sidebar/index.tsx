@@ -1,5 +1,4 @@
 import { Menu, MenuProps } from "antd";
-import React from "react";
 import { FcGoogle } from "react-icons/fc";
 
 type MenuItem = Required<MenuProps>["items"][number];

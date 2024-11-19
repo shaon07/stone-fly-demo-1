@@ -10,7 +10,7 @@ export default function RootLayout({ children }: RootLayoutProps) {
     <div>
       <ConfigProvider
         theme={{
-          token: { colorPrimary: "#00b96b" },
+          token: { colorPrimary: "#606060" },
           components: {
             Menu: {
               itemSelectedBg: "rgba(255,255,255,0)",
