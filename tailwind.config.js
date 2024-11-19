@@ -11,7 +11,8 @@ module.exports = {
         tertiary: "#1fa2ca",
         quaternary: "#06bcba",
         warning:"#06bcba",
-        danger:"#06bcba"
+        danger:"#06bcba",
+        "primary-gray":"#414F65"
       }
     },
   },
